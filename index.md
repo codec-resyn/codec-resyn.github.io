@@ -4,20 +4,18 @@
 
 
 
-### <center> Codec resynthesis results </center>
+### <center> Codec Resynthesis Results </center>
 <center> see paper for detailed explanation </center>
 
 ![Codec resynthesis results, see paper for detailed explanation. Number of function evaluations (NFE) reflects the number of forward passes required for synthesis, i.e., the inference cost.](figs/result.png)
 
 
-### <center> Audio samples </center>
+### <center> Audio Samples </center>
 
 <center> Demo samples are used in the MOS test. </center>
+<center> !!! Wearing headphones is strongly recommended to judge the audio quality !!! </center>
 
-> [!IMPORTANT]
-> Wearing headphones is strongly recommended for judging the audio quality.
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| `<span style="white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>` | <span style="white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:  |
 | Input<br>(1st RVQ code) | <audio src="samples/input/121-127105-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/8463-294825-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/1221-135767-0015.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/8463-294828-0003.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/3575-170457-0055.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/2830-3980-0045.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/4992-23283-0001.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/3575-170457-0010.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/260-123286-0016.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/1284-1181-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/4970-29093-0004.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/260-123286-0005.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/5105-28233-0005.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/4992-41806-0017.wav" controls style="width:200px;" preload></audio> | <audio src="samples/input/7127-75946-0008.wav" controls style="width:200px;" preload></audio> |
 | Coarse-to-fine<br>(NFE=7) | <audio src="samples/coarse2fine/121-127105-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/8463-294825-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/1221-135767-0015.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/8463-294828-0003.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/3575-170457-0055.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/2830-3980-0045.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/4992-23283-0001.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/3575-170457-0010.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/260-123286-0016.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/1284-1181-0006.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/4970-29093-0004.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/260-123286-0005.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/5105-28233-0005.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/4992-41806-0017.wav" controls style="width:200px;" preload></audio> | <audio src="samples/coarse2fine/7127-75946-0008.wav" controls style="width:200px;" preload></audio> |
